@@ -1,5 +1,5 @@
 ;;; dome-theme.el // dome (v1.0), a scifi theme for GNUmacs
-;; Copyright 2017: wllclngn (https://github.com/wllclngn/GNUmacs-Themes/dome-theme/)
+;; Copyright 2017: wllclngn (https://github.com/wllclngn/GNUmacs-Themes/blob/master/dome-theme.el)
 ;; Copyright 2012-2015: Nicholas M. Van Horn (https://github.com/n3mo/cyberpunk-theme.el)
 
 ;; QUOTE:
