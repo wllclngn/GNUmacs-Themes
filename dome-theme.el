@@ -1,6 +1,6 @@
-;;; dome-theme.el // dome (v1.0), a scifi theme for GNUmacs
-;; Copyright 2017: wllclngn (https://github.com/wllclngn/GNUmacs-Themes/blob/master/dome-theme.el)
-;; Copyright 2012-2015: Nicholas M. Van Horn (https://github.com/n3mo/cyberpunk-theme.el)
+;;; dome-theme.el // dome (v1.1), a scifi theme for GNUmacs
+;; Copyright 2017-2021: wllclngn (https://github.com/wllclngn/GNUmacs-Themes/blob/master/dome-theme.el)
+;; Copyright 2012-2020: Nicholas M. Van Horn (https://github.com/n3mo/cyberpunk-theme.el)
 
 ;; QUOTE:
 ;; "Things aren't different. Things are things," 'Neuromancer,' William Gibson.
@@ -34,20 +34,20 @@
   "Make transparent background in terminal. (Workaround)")
 (let ((class '((class color) (min-colors 32)))
       ;; dome palette
-      (dome-red "#EA1717") ;; TRUE
-      (dome-purple "#6A64FF") ;; TRUE
-      (dome-purp-cursor "#AEAEF8") ;; CURSOR
-      (dome-purp-select "#4A4881") ;; SELECTION
+      (dome-red "#EA1717") ;; ERROR RED
+      (dome-purple "#6A64FF") ;; MAC OS 9 PURP #2
+      (dome-purp-cursor "#6B8CFF") ;; RiiiCK'S HAIR CURSOR
+      (dome-purp-select "#4A4881") ;; MAC OS 9 PURP #1 SELECTION
       (dome-orange "#FFA561") ;; YABBA-DABBA-DOO-ORANGE-LAZARUS
-      (dome-yellow "#FFEC87") ;; LITE I
-      (dome-green "#00FFA6") ;; #22FF71 
-      (dome-blue "#00CDF0") ;; SEA BLUE
-      (dome-blue-2 "#217CFA") ;; 
+      (dome-yellow "#FFEC87") ;; PASTEL YELLOW
+      (dome-green "#00FFA6") ;; TERM' GREEN
+      (dome-blue "#00A0FF") ;; OCEAN BLUE
+      (dome-blue-2 "#217CFA") ;; MAC SELECTION BLUE
       (dome-gray "#242424") ;; DARK I
       (dome-gray-3 "#727272") ;; COMMENT GRAY
       (dome-gray-4 "#999999") ;; LITE II
-      (dome-gray-5 "#212121") ;; BACKGROUND DARK II
-      (dome-gray-6 "#181818") ;; FORE' MODELINE DARK III
+      (dome-gray-5 "#181818") ;; BACKGROUND DARK II
+      (dome-gray-6 "#121212") ;; FORE' MODELINE DARK III
       (dome-gray-7 "#282828") ;; DARK IV
       (dome-gray-8 "#C8C8C8") ;; TEXT TRUE
       (dome-gray-9 "#E7E7E7") ;; MODELINE TRUE
