@@ -1,5 +1,5 @@
 ;;; terminal-theme.el // terminal (v1.0), a vintage theme for GNU Emacs
-;; Copyright 2018: willsi (https://github.com/wllsi/terminal-theme/)
+;; Copyright 2018: willsi (https://github.com/wllclngn/GNUmacs-Themes/blob/master/terminal-theme.el)
 ;; Copyright 2012-2015: Nicholas M. Van Horn (https://github.com/n3mo/cyberpunk-theme.el)
 
 ;; QUOTE:
