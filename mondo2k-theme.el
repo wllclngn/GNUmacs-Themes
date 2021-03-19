@@ -1,5 +1,5 @@
 ;;; mondo2k-theme.el // mondo2k (v1.0), a scifi theme for GNU Emacs
-;; Copyright 2017: willsi (https://github.com/wllsi/mondo2k-theme/)
+;; Copyright 2017: willsi (https://github.com/wllclngn/GNUmacs-Themes/blob/master/mondo2k-theme.el)
 ;; Copyright 2012-2015: Nicholas M. Van Horn (https://github.com/n3mo/cyberpunk-theme.el)
 
 ;; QUOTE:
